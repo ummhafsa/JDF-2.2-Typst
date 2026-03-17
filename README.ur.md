@@ -9,7 +9,8 @@
 
 یہ Overleaf پر موجود [Joyner Document Format (JDF) v2.2](https://www.overleaf.com/latex/templates/joyner-document-format-v2-dot-2/xysfjgnvxnqq) کے سانچے کی [Typst](https://typst.app/) کے لیے تشکیلِ نو ہے — جو دستاویز کی تدوین کا ایک جدید نظام ہے۔
 
-> [!WARNING]
+> ⚠️ **انتباہ**
+> 
 > یہ سانچہ فی الحال **غیر رسمی** ہے۔ جو طلبہ اسے اپنے نصابی کام میں استعمال کرنا چاہیں، انھیں پہلے اپنے نصاب کے عملے سے اجازت لینا لازم ہے۔
 
 ## پسِ منظر
