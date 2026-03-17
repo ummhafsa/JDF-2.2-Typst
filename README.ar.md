@@ -9,7 +9,7 @@
 
 تحويل لقالب [Joyner Document Format (JDF) v2.2](https://www.overleaf.com/latex/templates/joyner-document-format-v2-dot-2/xysfjgnvxnqq) من Overleaf إلى منظومة [Typst](https://typst.app/) الحديثة لتنضيد المستندات.
 
-> [!WARNING]
+⚠️ **تحذير**
 > هذا القالب **غير رسمي** حتى تاريخ كتابة هذا الملف. يجب على أي طالب يرغب في استخدامه الحصول على موافقة طاقم المادة الدراسية أولًا.
 
 ## السياق
